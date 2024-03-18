@@ -1,3 +1,9 @@
+/*
+    Student Name : Garson Hutchinson
+    Student Id # : 2101012660
+
+*/
+
 package PayrollManagement;
 
 public class Payroll extends StaffMember{
